@@ -1,0 +1,3 @@
+[build]
+  command = "go build -o outputFileName"
+  publish = "."  # Or specify the directory where your binary is located
